@@ -13,7 +13,7 @@ permissions:
 env:
   NODE_VERSION: '20'
   REGISTRY: ghcr.io
-  IMAGE_NAME: sagar-subedi/next-mart
+  IMAGE_NAME: sagar-subedi/dokomart
 
 jobs:
   # Unit Testing
